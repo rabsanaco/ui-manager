@@ -15,6 +15,6 @@ class Builder extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'Rabsanaco\Contracts\Builder';
+        return 'Rabsanaco\Contracts\UI\Builder';
     }
 }
